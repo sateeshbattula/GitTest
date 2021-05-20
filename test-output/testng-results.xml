@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39" started-at="2021-03-10T10:30:41Z" finished-at="2021-03-10T10:30:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39" started-at="2021-03-10T10:30:41Z" finished-at="2021-03-10T10:30:41Z">
+      <class name="qaclickacademy.Mavenjava.AppiumTest">
+        <test-method status="PASS" signature="IOSapps()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@5c3bd550]" name="IOSapps" duration-ms="10" started-at="2021-03-10T16:00:41Z" finished-at="2021-03-10T16:00:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSapps -->
+        <test-method status="PASS" signature="nativeAppAndroid()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@5c3bd550]" name="nativeAppAndroid" duration-ms="1" started-at="2021-03-10T16:00:41Z" finished-at="2021-03-10T16:00:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAppAndroid -->
+      </class> <!-- qaclickacademy.Mavenjava.AppiumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
